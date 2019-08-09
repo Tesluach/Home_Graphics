@@ -486,6 +486,12 @@ img {
       left: 83;
     }
   }
+
+  .copyrights {
+    padding: 5px;
+    font-size: 14px;
+  }
+
 }
 
 /* This media query deals with the small screens slightly bigger */
@@ -524,8 +530,8 @@ img {
     grid-column: 1 / 1;
   }
 
-  .copyrights {
+  .copyrights p {
     padding: 5px;
-    font-size: 12px;
+    font-size: 14px;
   }
 }
